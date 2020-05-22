@@ -4,4 +4,6 @@ Final project of the subject of Text Mining of the Master in Bioinformatics and 
 # **Author**
 Álvaro Huertas García
 
+www.linkedin.com/in/alvaro-huertas-garcia
+
 
